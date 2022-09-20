@@ -1,0 +1,6 @@
+[25-Feb-2021 15:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mbmanorg/public_html/onlineform/admin/Database/database.php on line 155
+[25-Feb-2021 15:57:26 UTC] PHP Notice:  Undefined variable: password in /home/mbmanorg/public_html/onlineform/admin/SMSSetup/addprocess.php on line 17
+[25-Feb-2021 16:02:53 UTC] PHP Notice:  Undefined variable: password in /home/mbmanorg/public_html/onlineform/admin/SMSSetup/addprocess.php on line 17
+[04-Mar-2021 04:22:24 UTC] PHP Notice:  Undefined index: username in /home/mbmanorg/public_html/onlineform/admin/common/session.php on line 9
+[04-Mar-2021 04:22:24 UTC] PHP Notice:  Undefined index: token in /home/mbmanorg/public_html/onlineform/admin/common/session.php on line 10
+[04-Mar-2021 04:22:24 UTC] PHP Notice:  Undefined index: username in /home/mbmanorg/public_html/onlineform/admin/common/sidebar.php on line 30
